@@ -1,0 +1,5 @@
+3 employee records written.
+Record 1 updated in place.
+Record 0 -> ID:1 Name:Alice Salary:50000.00
+Record 1 -> ID:2 Name:Bobby Salary:47000.00
+Record 2 -> ID:3 Name:Carol Salary:60000.00

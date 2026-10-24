@@ -1,0 +1,7 @@
+Starting submission processing...
+Duplicate found: ./submissions/student_B_asg1.txt (same as ./submissions/student_A_asg1.txt)
+Duplicate found: ./submissions/student_D_asg1.txt (same as ./submissions/student_A_asg1.txt)
+----- Submission Report -----
+Total files processed : 6
+Duplicate files found : 2
+Unique files backed up: 3
